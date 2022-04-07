@@ -10,6 +10,8 @@ const Nav  = ({minimal}) => {
            </div>
 
             {!authToken && <button>Log in</button>
+            <p>sss</p>
+            <p>sss</p>
        </nav>
     )
 }  
